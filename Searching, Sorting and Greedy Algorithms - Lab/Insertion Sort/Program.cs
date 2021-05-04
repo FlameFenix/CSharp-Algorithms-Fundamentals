@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Insertion_Sort
 {
@@ -7,9 +8,9 @@ namespace Insertion_Sort
         static void Main(string[] args)
         {
             int[] nums = Console.ReadLine()
-                               .Split(" ", StringSplitOptions.RemoveEmptyEntries)
-                               .Select(int.Parse)
-                               .ToArray();
+                                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                                .Select(int.Parse)
+                                .ToArray();
 
             for (int i = 1; i < nums.Length; i++)
             {
