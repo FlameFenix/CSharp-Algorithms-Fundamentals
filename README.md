@@ -1,7 +1,7 @@
 # C# Algorithms Fundamentals
 <html>
 <body>
-<img src="https://github.com/FlameFenix/Certificates-Softuni/blob/main/Csharp.png?raw=true">
+<img src="https://github.com/FlameFenix/Certificates-Softuni/blob/main/pictures/Csharp.png">
   
 <h1>Sorting Algorithms </h1>
 <table style="width:100%">
