@@ -16,9 +16,9 @@
   </tr>
   <tr>
     <td>Selection Sort</td>
-    <td>n2</td>
-    <td>n2</td>
-    <td>n2</td>
+    <td>n<sup>2</td>
+    <td>n<sup>2</td>
+    <td>n<sup>2</td>
     <td>1</td>
     <td>No</td>
     <td>Selection</td>
@@ -26,8 +26,8 @@
   <tr>
     <td>Bubble Sort</td>
     <td>n</td>
-    <td>n2</td>
-    <td>n2</td>
+    <td>n<sup>2</td>
+    <td>n<sup>2</td>
     <td>1</td>
     <td>Yes</td>
     <td>Exchanging</td>
@@ -35,8 +35,8 @@
   <tr>
     <td>Insertion Sort</td>
     <td>n</td>
-    <td>n2</td>
-    <td>n2</td>
+    <td>n<sup>2</td>
+    <td>n<sup>2</td>
     <td>1</td>
     <td>Yes</td>
     <td>Insertion</td>
@@ -45,7 +45,7 @@
     <td>Quick Sort</td>
     <td>n * log(n)</td>
     <td>n * log(n)</td>
-    <td>n2</td>
+    <td>n<sup>2</td>
     <td>1</td>
     <td>Depends</td>
     <td>Partitioning</td>
